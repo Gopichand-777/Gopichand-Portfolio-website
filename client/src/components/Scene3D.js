@@ -1,7 +1,7 @@
 import React, { useRef } from 'react';
 import { Canvas, useFrame } from '@react-three/fiber';
 import { OrbitControls, Sphere, MeshDistortMaterial, Float } from '@react-three/drei';
-import * as THREE from 'three';
+// import * as THREE from 'three';
 
 function AnimatedSphere() {
   const meshRef = useRef();

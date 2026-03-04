@@ -127,7 +127,7 @@ const Home = () => {
               </div>
               <div className="stat-card glass-card">
                 <h3>4+</h3>
-                <p>Certifications</p>
+                <p>Certificates</p>
               </div>
             </motion.div>
           </div>
